@@ -1,0 +1,37 @@
+body
+{
+    background-color: #c4c6b9;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+h1
+{
+    color: #161669;
+    text-align: right;
+    font-weight: 900;
+    letter-spacing: 50px;
+}
+h2
+{
+    background-color: #5d6336;
+    color: white;
+    clear: both;
+}
+address
+{
+    font-size: initial;
+    clear: both;
+}
+img.fiore
+{
+    float: left;
+}
+img.croce
+{
+    display: block;
+    margin: auto;
+}
+img.novella
+{
+    float: right;
+}
